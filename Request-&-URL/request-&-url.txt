@@ -1,0 +1,7 @@
+ POST - http://localhost:5000/StudentData
+
+ {
+     "name" : "Surya",
+     "course" : "React",
+     "mobile" : 9609222333
+ }
